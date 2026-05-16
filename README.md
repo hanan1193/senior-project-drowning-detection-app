@@ -54,13 +54,13 @@ Visual warning appears immediately
  Wearable Device Readings Screen 
 
 Displays real-time sensor readings for a selected swimmer:
-
-<p align="center"> <img src="images/Readings.jpg" width="250"/> </p>
-Heart Rate
-Blood Oxygen Level (SpO2)
-Acceleration
+Heart Rate ,
+Blood Oxygen Level (SpO2) ,
+Acceleration ,
 Current Status
 
+<p align="center"> <img src="images/Readings.jpg" width="250"/> </p>
 The application continuously listens to Firebase Realtime Database and updates the data instantly.
+
 
 <p align="center"> <img src="images/swimmer_monitoring.png" width="250"/> </p>
