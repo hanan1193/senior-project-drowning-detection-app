@@ -30,13 +30,13 @@ The first screen displayed when the application starts.
 
 Allows lifeguards to create a new account.
 
-<p align="center"> <img src="images/signup_screen.png" width="250"/> </p>
+<p align="center"> <img src="images/signup_screen.jpg" width="250"/> </p>
 
  Sign In Screen
 
 Allows lifeguards to log into the application securely.
 
-<p align="center"> <img src="images/signin_screen.png" width="250"/> </p>
+<p align="center"> <img src="images/signin_screen.jpg" width="250"/> </p>
 
  Dashboard Screen
 
@@ -49,12 +49,13 @@ When drowning signs are detected:
 
 Audible alarm is triggered
 Visual warning appears immediately
-<p align="center"> <img src="images/dashboard.png" width="250"/> </p>
+<p align="center"> <img src="images/dashboard.jpg" width="250"/> </p>
 
  Wearable Device Readings Screen 
 
 Displays real-time sensor readings for a selected swimmer:
 
+<p align="center"> <img src="images/Readings.jpg" width="250"/> </p>
 Heart Rate
 Blood Oxygen Level (SpO2)
 Acceleration
