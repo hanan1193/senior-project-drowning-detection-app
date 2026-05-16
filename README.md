@@ -20,25 +20,25 @@ Firebase Realtime Database
 Firebase Authentication
 
 # Application Screens:
-# Welcome Screen
+ Welcome Screen
 
 The first screen displayed when the application starts.
 
-<p align="center"> <img src="images/welcome_screen.png" width="250"/> </p>
+<p align="center"> <img src="images/welcome_screen.jpg" width="250"/> </p>
 
-# Sign Up Screen
+ Sign Up Screen
 
 Allows lifeguards to create a new account.
 
 <p align="center"> <img src="images/signup_screen.png" width="250"/> </p>
 
-# Sign In Screen
+ Sign In Screen
 
 Allows lifeguards to log into the application securely.
 
 <p align="center"> <img src="images/signin_screen.png" width="250"/> </p>
 
-# Dashboard Screen
+ Dashboard Screen
 
 Displays all wearable devices connected to swimmers in the pool.
 
@@ -51,7 +51,7 @@ Audible alarm is triggered
 Visual warning appears immediately
 <p align="center"> <img src="images/dashboard.png" width="250"/> </p>
 
-# Wearable Device Readings Screen 
+ Wearable Device Readings Screen 
 
 Displays real-time sensor readings for a selected swimmer:
 
